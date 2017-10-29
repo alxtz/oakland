@@ -793,6 +793,8 @@ ul {
 
 .button:hover {
   color: #018001;
+  /*color: #3af4fd;
+  filter: drop-shadow(0 0 5px #3af4fd);*/
 }
 
 html, body {
